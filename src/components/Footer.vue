@@ -6,8 +6,7 @@
           <div>
             <h3>BeTu</h3>
             <p class="description">
-              Travel you choose the <br /> destination, we offer you the{" "}
-              <br /> experience.
+              Be Tu sẽ mang đến cho bạn <br> những trải nghiệm tuyệt vời <br> và không thể nào quên.
             </p>
             <div class="icon">
               <a href="https://www.facebook.com/" target="_blank" rel="noreferrer" class="footer__social">
